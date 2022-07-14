@@ -1,4 +1,2 @@
-# demo
-测试样例
-111
-2222
+# demogogogo
+gogoogo
